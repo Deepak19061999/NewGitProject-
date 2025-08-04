@@ -6,7 +6,8 @@ public class GitClass {
 		System.out.println("Day 1");
 		System.out.println("Deepak Changes the code ");
 		System.out.println("Verify the change");
-		System.out.println("Extra line");
+		String s= "Deepak";
+		
 	}
 
 }
